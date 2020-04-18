@@ -344,6 +344,10 @@ var orgs = [
       "type": "org"
   },
   {
+     "name": "web-scraping",
+      "type": "repo"
+  },
+  {
       "name": "kabanero-io",
       "type": "org"
   },
